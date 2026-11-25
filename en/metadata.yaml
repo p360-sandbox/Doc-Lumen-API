@@ -1,0 +1,14 @@
+publication:
+  OutputFilename: LumenApi
+  PublicationName: Lumen API Reference
+  Metadata: sandbox,lumenapi
+  ProductVersion: '2512'
+  Language: en
+  PublicationAuthor: docs@example.test
+  Category: Lumen
+  SubCategory: Guides
+  ProductFamily: Lumen Suite
+  Product: Lumen API
+  ContentType: API Reference
+  DateCreated: 2026-01-15
+  DateUpdated: 2026-06-10
